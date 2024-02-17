@@ -3,6 +3,9 @@
 Counter-Up
 ==========
 
+
+Shaikh zaeem zahid
+
 Counter-Up is a jQuery plugin that *animates* a number from zero (counting up towards it). It supports counting up:
 
 * integers `12345`
